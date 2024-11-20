@@ -1,0 +1,19 @@
+[package]
+name = "vects"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8.5"
+
+[[bin]]
+name = "camma_code"
+path = "src/bin/camma_code.rs"
+
+[[bin]]
+name = "coin_flip_streaks"
+path = "src/bin/coin_flip_streaks.rs"
+
+[[bin]]
+name = "character_picture_grid"
+path = "src/bin/character_picture_grid.rs"

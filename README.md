@@ -19,3 +19,11 @@ For instance, to compile and run the `rustc -O collatz.rs` followed by `./collat
 Note: The `-O` flag enables optimizations during compilation.
 
 
+
+
+### when projects are with cargo 
+
+#### compile 
+- cargo build --release --bin coin_flip_streaks
+####
+- ./target/release/coin_flip_streaks
