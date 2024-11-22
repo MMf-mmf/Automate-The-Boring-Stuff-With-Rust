@@ -1,0 +1,1 @@
+/Users/mf/Documents/Rust_Code/Automate\ The\ Boring\ Stuff\ Sith Rust/dictionarys_3/target/release/fantasy_game_inventory: /Users/mf/Documents/Rust_Code/Automate\ The\ Boring\ Stuff\ Sith Rust/dictionarys_3/src/bin/fantasy_game_inventory.rs

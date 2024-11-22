@@ -1,0 +1,1 @@
+/Users/mf/Documents/Rust_Code/Automate\ The\ Boring\ Stuff\ Sith Rust/dictionarys/target/release/chess_validator: /Users/mf/Documents/Rust_Code/Automate\ The\ Boring\ Stuff\ Sith Rust/dictionarys/src/bin/chess_validator.rs
