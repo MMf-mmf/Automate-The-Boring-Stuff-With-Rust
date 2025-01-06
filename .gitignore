@@ -28,3 +28,9 @@ Thumbs.db
 
 # Optional: If you have any local environment files
 .env
+
+# remove python virtual environment
+venv/
+# remove all other rust executables such as debug or or other executables
+**/target/debug/
+**/target/release/

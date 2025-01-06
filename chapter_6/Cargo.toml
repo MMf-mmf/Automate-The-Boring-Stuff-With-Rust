@@ -1,0 +1,15 @@
+[package]
+name = "chapter_6"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "table_printer"
+path = "src/bin/table_printer.rs"
+
+[[bin]]
+name = "pig_latin"
+path = "src/bin/pig_latin.rs"
+
